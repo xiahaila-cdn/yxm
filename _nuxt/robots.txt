@@ -1,0 +1,50 @@
+User-agent: *
+Disallow:
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: EtaoSpider
+Disallow: /
+
+User-agent: EasouSpider
+Disallow: /
+
+User-agent: YoudaoBot
+Disallow: /
+
+User-agent: YodaoBot
+Disallow: /
+
+User-agent: JikeSpider
+Disallow: /
+
+User-agent: iaskspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: ezooms.bot
+Disallow: /
+
+User-agent: Gigabot
+Disallow: /
+
+User-agent: WebAlta
+Disallow: /
+
+User-agent: robozilla
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: NHN
+Disallow: /
+
+User-agent: Twiceler
+Disallow: /
